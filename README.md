@@ -2,6 +2,8 @@
 An interactive WebGIS dashboard to visualize Indian state boundaries using GeoJSON and TailwindCSS.
 
 🔗 Live Repository: github.com/Raman-kr1/WebGIS-Assignment
+, live Page: https://india-states-web-map.vercel.app/
+
 
 ## Setup Steps
 
